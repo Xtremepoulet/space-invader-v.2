@@ -1,0 +1,24 @@
+body {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.game_score {
+    position: absolute;
+    z-index: 10;
+    color: white;
+    top: 10px;
+    left: 10px;
+    margin: 10px;
+
+}
+
+
+.relative {
+    position: relative;
+}
+
